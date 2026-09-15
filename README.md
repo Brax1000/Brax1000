@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm C.C</h1>
 <h3 align="center">Braxten Orline Urdelas — BSIT Freshman</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Braxten!+%F0%9F%91%8B;Braxten+Orline+Urdelas;BSIT+STUDENT;TUP+MANILA" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Braxten!+%F0%9F%91%8B;Braxten+Orline+Urdelas;BSIT+STUDENT;TUP+MANILA" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-FFD700?style=for-the-badge&logoColor=black" />
@@ -117,4 +117,4 @@ A learning repository exploring Java fundamentals through a calculator project.
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brax1000/Brax1000/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9B;Let's+build+something+together+%F0%9F%9A%80" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9B;Let's+build+something+together+%F0%9F%9A%80" />

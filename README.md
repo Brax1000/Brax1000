@@ -108,11 +108,6 @@ A learning repository exploring Java fundamentals through a calculator project.
 
 ### 🐍 Contribution Snake
 
-```
-Add the Platane/snk GitHub Action to this repo to auto-generate
-an animated snake that "eats" your contribution graph.
-Repo: github.com/Platane/snk
-```
 ![Snake animation](https://raw.githubusercontent.com/Brax1000/Brax1000/output/github-contribution-grid-snake.svg)
 ---
 

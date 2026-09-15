@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm C.C</h1>
 <h3 align="center">Braxten Orline Urdelas — 1st Year BSIT Student</h3>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+C.C+%F0%9F%91%8B;Braxten+Orline+Urdelas;1st+Year+BSIT+Student" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-FFD700?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/University-TUP%20Manila-FFD700?style=for-the-badge&logoColor=black" />
@@ -111,4 +113,4 @@ A learning repository exploring Java fundamentals through a calculator project.
 ![Snake animation](https://raw.githubusercontent.com/Brax1000/Brax1000/output/github-contribution-grid-snake.svg)
 ---
 
-<p align="center">💛 Thanks for visiting my profile! 💛</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9B;Let's+build+something+together+%F0%9F%9A%80" />

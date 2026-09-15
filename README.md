@@ -24,7 +24,7 @@
 
 ### 🟡 About Me
 
-I'm a **1st Year BSIT student** at the **Technological University of the Philippines – Manila**, documenting my journey into programming and software development. Still early in the game, still learning the ropes — but building real projects one step at a time. 💛
+I'm a **BSIT freshman** at the **Technological University of the Philippines – Manila**, documenting my journey into programming and software development. Still early in the game, still learning the ropes — but building real projects one step at a time. 💛
 
 ---
 

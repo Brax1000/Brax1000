@@ -66,7 +66,7 @@ I'm a **1st Year BSIT student** at the **Technological University of the Philipp
 <details open>
 <summary><b>⭐ HelloWorld</b> — <code>CSS</code> · Multi-language</summary>
 <br>
-Hello World! written across multiple programming languages — a beginner's first step exploring syntax differences.
+Hello World! written across multiple programming languages — a beginner's first step exploring syntax differences. :3
 </details>
 <br>
 

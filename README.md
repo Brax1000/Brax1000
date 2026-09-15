@@ -113,4 +113,13 @@ A learning repository exploring Java fundamentals through a calculator project.
 ![Snake animation](https://raw.githubusercontent.com/Brax1000/Brax1000/output/github-contribution-grid-snake.svg)
 ---
 
+## PACMAN GRAPH 👾
+
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brax1000/Brax1000/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brax1000/Brax1000/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Brax1000/Brax1000/output/pacman-contribution-graph.svg">
+</picture>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%92%9B;Let's+build+something+together+%F0%9F%9A%80" />

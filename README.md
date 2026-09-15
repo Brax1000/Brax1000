@@ -61,7 +61,7 @@ I'm a **1st Year BSIT student** at the **Technological University of the Philipp
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Current Projects
 
 <details open>
 <summary><b>⭐ HelloWorld</b> — <code>CSS</code> · Multi-language</summary>

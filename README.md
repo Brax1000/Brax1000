@@ -16,7 +16,7 @@
 
 <div align="center">
 
-> 🟡 *"Just because you've implemented something doesn't mean you understand it."* — Brian Cantwell Smith
+> 🟡 *""The only way to learn a new programming language is by writing programs in it.""* — Dennis Ritchie
 
 </div>
 

@@ -66,7 +66,7 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 ### 🚀 Current Projects
 
 <details open>
-<summary><b>⭐ HelloWorld</b> — <code>CSS</code> · Multi-language</summary>
+<summary><b>⭐ HelloWorld</b> —  · Multi-language</summary>
 <br>
 Hello World! written across multiple programming languages — a beginner's first step exploring syntax differences. :3
 </details>

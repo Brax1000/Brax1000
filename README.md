@@ -60,6 +60,10 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
   <img src="https://skillicons.dev/icons?i=electron" height="55" alt="Electron" />
 </p>
 
+#### 🎮 Game Development
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=raylib" height="55" alt="raylib" /> </p>
+
 #### 🛠️ Tools & Development
 
 <p align="center">

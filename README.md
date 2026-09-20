@@ -64,7 +64,6 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="55" alt="Git, GitHub, VS Code, PyCharm" />
-  <img src="https://skillicons.dev/icons?i=codeblocks" height="55" alt="Code::Blocks" />
 </p>
 
 > 🌱 **Currently learning:** C, C++, Java, Python, HTML, CSS & JavaScript

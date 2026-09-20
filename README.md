@@ -62,7 +62,9 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 #### 🎮 Game Development
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=raylib" height="55" alt="raylib" /> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logoColor=white" height="55" alt="raylib" />
+</p>
 
 #### 🛠️ Tools & Development
 

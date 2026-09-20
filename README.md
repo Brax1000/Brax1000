@@ -61,7 +61,7 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 #### 🛠️ Tools & Development
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="55" alt="Development Tools" />
 </p>
 

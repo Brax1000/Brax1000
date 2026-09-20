@@ -63,8 +63,10 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 #### 🎮 Game Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logoColor=white" height="55" alt="raylib" />
+   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" height="55" alt="Unity" />
 </p>
+  <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" height="55" alt="raylib" />
+ 
 
 #### 🛠️ Tools & Development
 

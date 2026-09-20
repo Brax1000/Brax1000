@@ -42,24 +42,34 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 ### 🧑‍💻 Tech Stack
 
-**Core Languages**
+#### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />
 </p>
 
-**Frontend Web**
+#### 🌐 Web Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
 </p>
 
-*Beginner in most of these — still building fundamentals as a student. 🌱*
+#### 🛠️ Tools & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="55" alt="Development Tools" />
+</p>
+
+> 🌱 **Currently learning:** C, C++, Java, Python, HTML, CSS & JavaScript
+> 🚀 **Focus:** Programming fundamentals, problem-solving, and building real projects.
+
+*Beginner in most of these — still building fundamentals one project at a time.*
+
 
 ---
 

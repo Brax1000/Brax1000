@@ -44,7 +44,7 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 #### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c" height="55" alt="C" />
   <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++" />
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
@@ -53,22 +53,25 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 #### 🌐 Web Development
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=electron" height="55" alt="Electron" />
 </p>
 
 #### 🛠️ Tools & Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="55" alt="Development Tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" height="55" alt="Git, GitHub, VS Code, PyCharm" />
+  <img src="https://skillicons.dev/icons?i=codeblocks" height="55" alt="Code::Blocks" />
 </p>
 
 > 🌱 **Currently learning:** C, C++, Java, Python, HTML, CSS & JavaScript
 > 🚀 **Focus:** Programming fundamentals, problem-solving, and building real projects.
 
 *Beginner in most of these — still building fundamentals one project at a time.*
+
 
 
 ---

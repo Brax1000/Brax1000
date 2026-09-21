@@ -78,55 +78,6 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 *Beginner in most of these — still building fundamentals one project at a time.*
 
-
-
----
-
-### 🚀 Current Projects
-
-<details open>
-<summary><b>⭐ HelloWorld</b> —  · Multi-language</summary>
-<br>
-Hello World! written across multiple programming languages — a beginner's first step exploring syntax differences. :3
-</details>
-<br>
-
-<details open>
-<summary><b>⭐ C-Four — Bomb Defusal Simulator</b> — <code>C</code></summary>
-<br>
-A simulator project built in C, practicing logic, conditionals, and program flow.
-</details>
-<br>
-
-<details open>
-<summary><b>⭐ C.C-Calculator</b> — <code>JavaScript</code></summary>
-<br>
-A simple calculator project — a basic frontend build focused on JavaScript logic and UI.
-</details>
-<br>
-
-<details open>
-<summary><b>⭐ BasicCalc_CPP</b> — <code>C++</code></summary>
-<br>
-A basic calculator project built in C++ to practice core programming concepts.
-</details>
-<br>
-
-<details open>
-<summary><b>⭐ Hangman Game in Python</b> — <code>Python</code></summary>
-<br>
-A simple practice project in Python — building game logic with loops and conditionals.
-</details>
-<br>
-
-<details open>
-<summary><b>⭐ SimpleCalc_in_Java-3</b> — <code>Java</code></summary>
-<br>
-A learning repository exploring Java fundamentals through a calculator project.
-</details>
-
----
-
 ## PACMAN CONTRIBUTION GRAPH 👾
 
 <!-- pacman -->

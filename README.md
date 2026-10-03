@@ -78,6 +78,9 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 
 *Beginner in most of these — still building fundamentals one project at a time.*
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SipheDilima247&theme=tokyonight&hide_border=true" alt="Braxten's Streak" />
+</div>
+
 ## PACMAN CONTRIBUTION GRAPH 👾
 
 <!-- pacman -->

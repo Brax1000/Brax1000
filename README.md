@@ -20,9 +20,6 @@
 
 </div>
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=Brax1000&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&currTitle=FFD700" alt="Brax1000's Streak" />
-</div>
 
 
 ---
@@ -82,6 +79,10 @@ I'm a **BSIT freshman** at the **Technological University of the Philippines –
 > 🚀 **Focus:** Programming fundamentals, problem-solving, and building real projects.
 
 *Beginner in most of these — still building fundamentals one project at a time.*
+
+<div align="center">
+    <img src="https://streak-stats.demolab.com/?user=Brax1000&background=000000&border=FFD700&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700&currTitle=FFD700" alt="Brax1000's Streak" />
+</div>
 
 
 ## PACMAN CONTRIBUTION GRAPH 👾
